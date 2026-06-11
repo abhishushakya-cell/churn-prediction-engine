@@ -80,9 +80,6 @@ Or paste it directly in the dashboard. Without a key, a smart template fallback 
 
 ---
 
-## 💼 Resume Bullet
-
-> *Built an end-to-end churn prediction system combining XGBoost (0.88 AUC-ROC) with a RAG-powered LLM layer to auto-generate personalized retention emails; deployed as a Streamlit dashboard processing 1,000 customers, identifying $X MRR at risk with SHAP-explainable predictions.*
 
 ---
 
